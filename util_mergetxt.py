@@ -2,9 +2,9 @@
 
 import os
 
-input_folder_path = './text/ThinkingBasketball/'
+input_folder_path = './text/ThinkingBasketballSmallSample/'
 output_folder_path = './text_library/'
-output_file_name = 'ThinkingBasketball_L5Y.txt'
+output_file_name = 'ThinkingBasketball_202306-202401.txt'
 
 
 def merge_files(input_folder, output_folder, output_filename):
